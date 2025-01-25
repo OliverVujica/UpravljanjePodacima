@@ -1,0 +1,17 @@
+fastapi
+uvicorn
+sqlalchemy
+pymysql
+redis
+pydantic
+pydantic-settings
+aioredis
+fastapi-jwt-auth
+cryptography
+bcrypt
+python-multipart
+PyJWT
+passlib
+confluent_kafka
+kafka
+python-jose
