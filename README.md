@@ -10,7 +10,8 @@ Projekt je primarno usmjeren na razvoj backend aplikacije te koristi:
 
 - **FastAPI** za izradu brzog i učinkovitog API-ja,
 - **MySQL** kao sustav za upravljanje relacijskim bazama podataka,
-- **Redis** za keširanje podataka, čime se smanjuje opterećenje na bazu podataka i optimiziraju performanse.
+- **Redis** za keširanje podataka, čime se smanjuje opterećenje na bazu podataka i optimiziraju performanse,
+- **Apache Kafka** za komunikaciju u stvarnom vremenu.
 
 Projekt BlogApp značajke:
 
